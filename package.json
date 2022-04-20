@@ -1,0 +1,14 @@
+{
+  "name": "timestories",
+  "version": "1.0.0",
+  "description": "The API results in fetching 6 latest stories",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
